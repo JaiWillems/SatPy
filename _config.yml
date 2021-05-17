@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+tittle: Celest
+description: Documentation for the Celest Python library.
+show_downloads: True
